@@ -1,5 +1,4 @@
-### 📄 `README.md`
-# 🏍️ My Data App - Motocycles Data Viewer
+# My Data App - Motocycles Data Viewer
 
 Bienvenue dans **My Data App**, une application interactive construite avec **Streamlit** qui permet d'explorer des données sur les motocyclettes extraites du site [Expat-Dakar](https://www.expat-dakar.com).
 
